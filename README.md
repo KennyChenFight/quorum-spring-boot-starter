@@ -64,4 +64,4 @@ To use, following instructions:
 
 ## Problems
 
-Because I use https://github.com/web3j/web3j-quorum library and package to spring boot starter, so you can see this document to conquer problems.
+Because I use https://github.com/web3j/web3j-quorum library and package to spring boot starter, you can see this document to conquer problems.
