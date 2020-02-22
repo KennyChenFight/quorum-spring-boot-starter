@@ -42,13 +42,13 @@ To use, following instructions:
 
    ```java
    @SpringBootApplication
-   public class QuorumUserDaemonApplication implements CommandLineRunner {
+   public class QuorumApplication implements CommandLineRunner {
    
        @Autowired
        private Quorum quorum;
    
        public static void main(String[] args) {
-           SpringApplication.run(QuorumUserDaemonApplication.class, args);
+           SpringApplication.run(QuorumApplication.class, args);
        }
    
        @Override
